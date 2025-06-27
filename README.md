@@ -1,12 +1,21 @@
-# React + Vite
+# Meme Generator (React Practice)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a React practice project where I created a meme generator app while learning concepts like components, props, state, and event handling.
 
-Currently, two official plugins are available:
+##  What I Learned
+- React functional components
+- Props and state handling
+- useState & useEffect hooks
+- Vite project setup
+- Mapping data to JSX
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+##  Tech Stack
+- React
+- Vite
+- JavaScript
+- CSS
 
-## Expanding the ESLint configuration
+##  Preview
+![mainpage](mainpage.png)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
