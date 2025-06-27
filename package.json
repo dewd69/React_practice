@@ -1,5 +1,7 @@
 {
   "name": "meme-party",
+  "description": "A meme generator project built using React and Vite.",
+  "author": "devansh",
   "private": true,
   "version": "0.0.0",
   "type": "module",
